@@ -16,3 +16,21 @@ As renewable energy sources like wind and solar grow in the UK's electricity mix
 
 ## 📁 Project Structure
 
+## 📊 Key Concepts
+
+- **Merit-Order Effect**: Renewables, with near-zero marginal costs, replace fossil fuel plants in the energy supply stack, reducing overall electricity prices.
+- **Exponential Decay Model**: Used to project prices as renewable penetration increases.
+
+## 📈 Sample Results
+
+- High renewables penetration (~90%) could reduce prices from £70/MWh (baseline) to ~£30/MWh by 2040.
+- Moderate growth brings prices to ~£40/MWh.
+- Minimal growth keeps prices around £65–70/MWh.
+
+## ⚙️ How to Run
+
+### Requirements
+- Python 3.8+
+- Libraries: `pandas`, `numpy`, `matplotlib`
+
+
