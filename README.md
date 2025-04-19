@@ -16,6 +16,13 @@ As renewable energy sources like wind and solar grow in the UK's electricity mix
 
 ## 📁 Project Structure
 
+📁 project/
+├── Electrcity_dataset.csv
+├── electricty_market.ipynb
+├── README_notebook.md
+└── charts/  # Optional: Save plots here
+```
+
 ## 📊 Key Concepts
 
 - **Merit-Order Effect**: Renewables, with near-zero marginal costs, replace fossil fuel plants in the energy supply stack, reducing overall electricity prices.
